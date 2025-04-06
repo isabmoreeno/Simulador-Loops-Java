@@ -33,7 +33,7 @@ public class Simulador2 {
             System.out.println(cont + "- Simulador");
             cont++;
         } while (cont <= 0);
-        System.out.println("Fim (do while).");
+        System.out.println("Fim - do while.");
 
         scan.close();
     }
